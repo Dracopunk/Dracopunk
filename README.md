@@ -6,16 +6,16 @@
 **Acerca de mí** 
 
 Soy Científico de Datos con conocimientos en Machine Learning, Python, SQL y Microsoft Office, orientado a transformar datos en información valiosa para apoyar la toma de decisiones. Me caracterizo por mi enfoque analítico, atención al detalle y compromiso con el aprendizaje continuo 🤓💻
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
+
+- 🔭 Actualmente terminé el Bootcamp de Data Science en la plataforma TripleTen y estoy ansioso de poder aplicar mis nuevos conocimientos 🤖
+
+- 🌱 Actualmente estoy aprendiendo sobre la Ciberseguridad en un programa que ofrece la plataforma Coursera en colaboración con Google 🧑‍💻
+- ♥️ Me encanta aprender nuevas tecnologías y descubrir maneras de automatizar mi trabajo, ya que me apasiona el aprendizaje, las herramientas digitales y la Inteligencia Artificial
+- 📫 ¿Quieres contactar conmigo?
  <a href="https://www.linkedin.com/in/samuel-l%C3%B3pez-galvis/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+
 
 
 ## Mis Habilidades Incluyen
