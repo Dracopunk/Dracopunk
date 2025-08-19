@@ -1,8 +1,6 @@
 <h1 align="center">Hola, soy Samuel  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
- <a href="https://www.linkedin.com/in/samuel-l%C3%B3pez-galvis/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<img align="right" width=300px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmh0amQzcTNzMWtnZXFiemE2OHlmcWM3aDNvZG83b3h1OGpreDFubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif" />
 
 
 **Dracopunk/Dracopunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +12,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+ <a href="https://www.linkedin.com/in/samuel-l%C3%B3pez-galvis/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+
+
 ## Mis Habilidades Incluyen
 
 <h4> Languages </h4>
