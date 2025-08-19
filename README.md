@@ -26,3 +26,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=SQL&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
+
+<h4> Other Tools and Technologies </h4>
