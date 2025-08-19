@@ -1,4 +1,5 @@
-**Hola soy Samuel** 👋
+<h1 align="center">Hola, soy Samuel  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 
 <a href="https://www.linkedin.com/in/samuel-l%C3%B3pez-galvis/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
