@@ -3,7 +3,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmh0amQzcTNzMWtnZXFiemE2OHlmcWM3aDNvZG83b3h1OGpreDFubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif" />
 
 
-**Acerca de mi** 
+**Acerca de mí** 
 
 Soy Científico de Datos con conocimientos en Machine Learning, Python, SQL y Microsoft Office, orientado a transformar datos en información valiosa para apoyar la toma de decisiones. Me caracterizo por mi enfoque analítico, atención al detalle y compromiso con el aprendizaje continuo 🤓💻
 Here are some ideas to get you started:
